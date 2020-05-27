@@ -1,10 +1,13 @@
 # Welcome to the MCPYE wiki!
 
-Top articles
+Important articles
 -----------
-[Acronym](https://github.com/seanpm2001/MCPYE/wiki/Acronym)
-[DevelopmentGuidelines](https://github.com/seanpm2001/MCPYE/wiki/Development_guidelines)
-[Snapshots(VersionControl)](https://github.com/seanpm2001/MCPYE/wiki/Snapshots(VersionControl))
+1. [Acronym](https://github.com/seanpm2001/MCPYE/wiki/Acronym)
+2. [DevelopmentGuidelines](https://github.com/seanpm2001/MCPYE/wiki/Development_guidelines)
+3. [Snapshots(VersionControl)](https://github.com/seanpm2001/MCPYE/wiki/Snapshots(VersionControl))
 
-Wiki main page version: 2 (May 26th 2020, at 7:01 pm)
+_Please read the important Wiki articles before making changes to the project._
+
+---
+Wiki main page version: 3 (May 26th 2020, at 7:02 pm)
 -----------
